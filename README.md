@@ -15,7 +15,7 @@ Assuming you have python, node and npm installed, you can run the following comm
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jamiHarshith/TypeScriptCleaner.git
    cd TypeScriptCleaner
 
 2. **Install TypeScript**:
